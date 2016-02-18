@@ -1,5 +1,4 @@
 require 'solid'
-require 'pony'
 require 'net/http'
 
 %w{filters}.each do |dir|
